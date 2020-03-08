@@ -31,3 +31,4 @@ SYSCALL(sleep)
 SYSCALL(uptime)
 //added for P2
 SYSCALL(settickets)
+SYSCALL(getpinfo)

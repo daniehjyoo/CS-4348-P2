@@ -27,6 +27,7 @@ int sleep(int);
 int uptime(void);
 //added for P2
 int settickets(int);
+int getpinfo(struct pstat *);
 
 // user library functions (ulib.c)
 int stat(char*, struct stat*);
